@@ -4,7 +4,7 @@ hash = [:a, :b ,:c]
 Hash[hash.zip array]
     if n_1 || n_2 || n_3 == nil
       return "nil detected"
-    else array.max
+    else 
         return 
     end
 end
